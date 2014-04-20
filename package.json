@@ -1,0 +1,51 @@
+{
+  "name": "nghtml-uglify",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Uglify HTML files mixed with AngularJS directives to make them valid HTML5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/narzac/nghtml-uglify.git"
+  },
+  "author": {
+    "name": "Ahmet Yesil",
+    "email": "narzac@gmail.com",
+    "url": "http://narzac.me"
+  },
+  "engines": {
+    "node": ">=0.10.6"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "files": [
+    "src/util.js",
+    "src/main.js",
+    "bin/nghtml-uglify.js"
+  ],
+  "main": "src/main.js",
+  "bin": {
+    "nghtml-uglify": "bin/nghtml-uglify.js"
+  },
+  "keywords": [
+    "html5",
+    "angular",
+    "angularjs",
+    "uglify",
+    "uglifier",
+    "nghtml",
+    "nghtml-uglify",
+    "html-uglify"
+  ],
+  "dependencies": {
+    "commander": "~2.1.0",
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.8.0",
+    "jshint-stylish": "~0.1.5",
+    "grunt-jasmine-node": "~0.1.0",
+    "grunt-jscs-checker": "~0.4.1"
+  }
+}
