@@ -1,4 +1,4 @@
-# nghtml-uglify [![Build Status](https://secure.travis-ci.org/narzac/nghtml-uglify.png?branch=master)](http://travis-ci.org/narzac/nghtml-uglify) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+# nghtml-uglify [![Build Status](https://api.travis-ci.org/narzac/nghtml-uglify.png?branch=master)](http://travis-ci.org/narzac/nghtml-uglify) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 > Uglify HTML files mixed with AngularJS directives such that it will be valid HTML5(Hopefully will significantly reduce IE issues as well)
 
@@ -15,3 +15,5 @@ Install with [npm](https://npmjs.org/package/nghtml-uglify)
 ## License
 
 MIT © [Ahmet Yeşil](http://narzac.me)
+
+
