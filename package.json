@@ -1,6 +1,6 @@
 {
   "name": "nghtml-uglify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "description": "Uglify HTML files mixed with AngularJS directives to make them valid HTML5",
   "repository": {
