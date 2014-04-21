@@ -3,6 +3,8 @@
 > Uglify HTML files mixed with AngularJS directives such that it will be valid HTML5(Hopefully
  will significantly reduce IE issues as well)
 
+![screenshot](screenshot.png)
+
 *Issues with the output should be reported to
 [issue tracker](https://github.com/narzac/nghtml-uglify/issues).*
 
